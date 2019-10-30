@@ -21,32 +21,27 @@ namespace EscreverTexto
                         Environment.SpecialFolder.Desktop), "TestFile.txt");
 
             // Instanciate streamwriter with file as argument
-            StreamWriter sw = new StreamWriter(ficheiro);
-
-            // Put variable values on the file
-            sw.WriteLine(name);
-            sw.WriteLine(age);
-            sw.WriteLine(height);
-
-            // Close file
-            sw.Close();
+            using (StreamWriter sw = new StreamWriter(ficheiro)) 
+            {
+                sw.WriteLine(name);
+                sw.WriteLine(age);
+                sw.WriteLine(height);
+            }
 
 
             // Read the values of the file
-            StreamReader sr = new StreamReader(ficheiro);
-
-            // Read values and convert the ones to be able to read them
-            name = sr.ReadLine();
-            age = int.Parse(sr.ReadLine());
-            float.TryParse(sr.ReadLine(), out height);
+            using (StreamReader sr = new StreamReader(ficheiro)) 
+            {
+                // Read values and convert the ones to be able to read them
+                name = sr.ReadLine();
+                age = int.Parse(sr.ReadLine());
+                float.TryParse(sr.ReadLine(), out height);
+            }
 
             // Print them out to the console
             Console.WriteLine(name);
             Console.WriteLine(age);
             Console.WriteLine(height);
-
-            // Close file
-            sr.Close();
 
 
             // Create instance of filestream and set the mode and acess to the
@@ -65,24 +60,23 @@ namespace EscreverTexto
 
             // instance of type Filestream to set mode to open the file and
             // acess to read the file
-            FileStream fr =
-                new FileStream(ficheiro, FileMode.Open, FileAccess.Read);
-
-            // Binaryreader receives the file as a filestream
-            BinaryReader br = new BinaryReader(fr);
-
-            // Read each value of each type with specific read method
-            name = br.ReadString();
-            age = br.ReadInt32();
-            height = br.ReadSingle();
+            using (FileStream fr =
+                new FileStream(ficheiro, FileMode.Open, FileAccess.Read)) 
+            {
+                // Binaryreader receives the file as a filestream
+                using (BinaryReader br = new BinaryReader(fr)) 
+                {
+                    // Read each value of each type with specific read method
+                    name = br.ReadString();
+                    age = br.ReadInt32();
+                    height = br.ReadSingle();
+                }
+            }
 
             // Print them out to the console
             Console.WriteLine(name);
             Console.WriteLine(age);
             Console.WriteLine(height);
-
-            // Close file
-            br.Close();
         }
     }
 }
