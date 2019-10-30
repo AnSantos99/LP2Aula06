@@ -1,0 +1,11 @@
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.exe
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.deps.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.runtimeconfig.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.runtimeconfig.dev.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\bin\Debug\netcoreapp3.0\Descompressor.pdb
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\obj\Debug\netcoreapp3.0\Descompressor.csprojAssemblyReference.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\obj\Debug\netcoreapp3.0\Descompressor.AssemblyInfoInputs.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\obj\Debug\netcoreapp3.0\Descompressor.AssemblyInfo.cs
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\obj\Debug\netcoreapp3.0\Descompressor.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\Descompressor\obj\Debug\netcoreapp3.0\Descompressor.pdb
