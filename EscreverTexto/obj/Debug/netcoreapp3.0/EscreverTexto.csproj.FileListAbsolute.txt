@@ -1,0 +1,11 @@
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.exe
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.deps.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.runtimeconfig.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.runtimeconfig.dev.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\bin\Debug\netcoreapp3.0\EscreverTexto.pdb
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\obj\Debug\netcoreapp3.0\EscreverTexto.csprojAssemblyReference.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\obj\Debug\netcoreapp3.0\EscreverTexto.AssemblyInfoInputs.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\obj\Debug\netcoreapp3.0\EscreverTexto.AssemblyInfo.cs
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\obj\Debug\netcoreapp3.0\EscreverTexto.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\EscreverTexto\obj\Debug\netcoreapp3.0\EscreverTexto.pdb
