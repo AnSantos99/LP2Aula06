@@ -1,0 +1,11 @@
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.exe
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.deps.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.runtimeconfig.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.runtimeconfig.dev.json
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\bin\Debug\netcoreapp3.0\BearAdapter.pdb
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\obj\Debug\netcoreapp3.0\BearAdapter.csprojAssemblyReference.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\obj\Debug\netcoreapp3.0\BearAdapter.AssemblyInfoInputs.cache
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\obj\Debug\netcoreapp3.0\BearAdapter.AssemblyInfo.cs
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\obj\Debug\netcoreapp3.0\BearAdapter.dll
+D:\1) Escola\2) Segundo ano\3) Linguagens de Programação II\LP2Aula06\BearAdapter\obj\Debug\netcoreapp3.0\BearAdapter.pdb
